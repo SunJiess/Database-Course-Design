@@ -1,5 +1,5 @@
 # 技术文档
-* [linux常用基本命令]
+* [linux常用基本命令](https://github.com/SunJiess/Database-Course-Design/blob/master/Technical%20documentation/linux%E5%B8%B8%E7%94%A8%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.md)
 * [vim常用基本命令](https://github.com/SunJiess/Database-Course-Design/blob/master/Technical%20documentation/vim%E5%B8%B8%E7%94%A8%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.md)
 * [git常用基本命令]
 # 课程设计
